@@ -8,7 +8,7 @@ packages:
   - git: "https://github.com/superbolt-x/bolt-dbt-googleads-package.git"
     revision: main
 
-  - git: "https://github.com/superbolt-x/bolt-dbt-shopify-package.git"
+  - git: "https://github.com/superbolt-x/bolt-dbt-shopify-package-bis.git"
     revision: main
 
   - git: "https://github.com/superbolt-x/bolt-dbt-tiktok-package.git"
